@@ -31,6 +31,3 @@ https://jsonplaceholder.typicode.com/users
 ## Author 
 [Udaya Sai Devu]
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/user-data-fetcher.git
